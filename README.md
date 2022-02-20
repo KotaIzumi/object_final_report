@@ -1,7 +1,7 @@
 # object_final_report
 
 ## 課題1のファイル
-- colohist.m
+- colorhist.m
 - Bofvector.m
 - VGG16_dcnn.m
 
